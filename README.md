@@ -2,7 +2,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90" alt="React logo" />
 </p>
 
-<h1 align="center">⚛️ The React Quiz</h1>
+<h1 align="center">The React Quiz</h1>
 
 A quiz app built with React to test your knowledge of basic React concepts. This project was built primarily as a practice exercise for working with the **`useReducer`** hook for complex state management, and for **fetching data from a fake REST API** using `json-server`.
 
