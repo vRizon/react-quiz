@@ -4,23 +4,23 @@ A quiz app built with React to test your knowledge of basic React concepts. This
 
 ## 📸 Preview
 
-### Start screen
-
-A welcome screen showing the number of questions and a button to begin.
-
-![Start screen](./screenshots/screen-1.png)
-
-### Question screen
-
-Displays the current question, a progress bar, a running score, answer options, and a countdown timer.
-
-![Question screen](./screenshots/screen-2.png)
-
-### Finish screen
-
-Shows the final score, percentage, and the highscore, with an option to restart the quiz.
-
-![Finish screen](./screenshots/screen-3.png)
+<table>
+  <tr>
+    <th>Start Screen</th>
+    <th>Question Screen</th>
+    <th>Finish Screen</th>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/screen-1.png" width="260" /></td>
+    <td><img src="./screenshots/screen-2.png" width="260" /></td>
+    <td><img src="./screenshots/screen-3.png" width="260" /></td>
+  </tr>
+  <tr>
+    <td>Welcome screen showing the number of questions and a button to begin.</td>
+    <td>Current question, progress bar, running score, answer options, and countdown timer.</td>
+    <td>Final score, percentage, and highscore, with an option to restart.</td>
+  </tr>
+</table>
 
 ## ✨ Features
 
